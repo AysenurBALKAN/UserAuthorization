@@ -6,6 +6,6 @@
  Proje içerisinde UrlRouting işlemi yapılmıştır ayrıca veritabanı işlemleri için stored procedure kullanılmıştır.
 <img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/log_in.PNG" width="40%" height="250px">
 <img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/user_add.PNG" width="50%" height="250px">
-<img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/user_grntl.PNG" width="50%" height="250px">
-<img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/yetki_dznl.PNG" width="50%" height="250px">
+<img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/user_grntl.PNG" width="70%" height="250px">
+<img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/yetki_dznl.PNG" width="70%" height="250px">
 
