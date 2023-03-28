@@ -4,4 +4,5 @@
  Kullanıcının yetkilerini kullanıcıya özel şekilde ayarlayabilirsiniz.Verdiğiniz yetkileri geri alıp yerine başka yetkiler tanımlayabilirsiniz.
  Proje Visiual Studio 2019'da Asp.net 4.5 Framework kullanılarak oluşturulmuştur.Veritabanı olarak MSSQL kullanılmıştır.İçerisindeki teknoolojiler HTML,CSS,Bootstrap,Javascript ve jquery'dir.
  Proje içerisinde UrlRouting işlemi yapılmıştır ayrıca veritabanı işlemleri için stored procedure kullanılmıştır.
-<img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/log_in.PNG" width="auto">
+<img src="https://github.com/AysenurBalkan/UserAuthorization/blob/main/log_in.PNG" width="100px">
+
