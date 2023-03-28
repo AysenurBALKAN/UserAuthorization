@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/admin_panel/admin.Master" AutoEventWireup="true" CodeBehind="yetk_dznl.aspx.cs" Inherits="eng_website.yetk_dznl" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <link href="admin_panel/user.css" rel="stylesheet" />
+    <link href="../css/user.css" rel="stylesheet" />
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     

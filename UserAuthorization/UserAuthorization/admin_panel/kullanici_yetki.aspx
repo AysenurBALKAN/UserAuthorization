@@ -5,7 +5,8 @@
     <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
     <script src="../Scripts/DataTables/jquery.dataTables.js"></script>
     <link href="../Content/DataTables/css/jquery.dataTables.css" rel="stylesheet" />
-    <link href="home.css" rel="stylesheet" />
+    <link href="../css/home.css" rel="stylesheet" />
+  
     <h2>Kullanıcı Yetkileri Düzenleme Sayfası</h2>
     <div class="center">
         <table class="table" id="myTable">

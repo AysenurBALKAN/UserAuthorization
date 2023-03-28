@@ -320,12 +320,11 @@
     <Content Include="admin_panel\Dosyalar1\sidebar\index5.html" />
     <Content Include="admin_panel\Dosyalar1\sidebar\style5.css" />
     <Content Include="admin_panel\Dosyalar1\StyleSheet2.css" />
-    <Content Include="admin_panel\home.css" />
+    <Content Include="css\home.css" />
     <Content Include="admin_panel\kullanici_yetki.aspx" />
     <Content Include="admin_panel\LoginPage.aspx" />
-    <Content Include="admin_panel\Loginstyle.css" />
-    <Content Include="admin_panel\sidebar.css" />
-    <Content Include="admin_panel\user.css" />
+    <Content Include="css\Loginstyle.css" />
+    <Content Include="css\user.css" />
     <Content Include="admin_panel\yetk_dznl.aspx" />
     <Content Include="Content\DataTables\css\autoFill.bootstrap.css" />
     <Content Include="Content\DataTables\css\autoFill.bootstrap.min.css" />
@@ -485,7 +484,7 @@
     <Content Include="Content\DataTables\images\sort_desc_disabled.png" />
     <Content Include="Content\DataTables\swf\flashExport.swf" />
     <Content Include="Global.asax" />
-    <Content Include="Login\images.png" />
+    <Content Include="png\images.png" />
     <Content Include="Scripts\ajaxlibsjquery2.1.1jquery.min.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.min.js" />
@@ -665,7 +664,6 @@
     <Content Include="Scripts\jquery-1.7.js" />
     <Content Include="Scripts\jquery-1.7.min.js" />
     <Content Include="Scripts\jquery-3.6.0.js" />
-    <Content Include="sidebar.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,91 @@
+﻿body {
+}
+
+
+* {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    outline: none;
+}
+
+body {
+    display: flex;
+    background-color: #2b3137;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    background: white;
+    box-sizing: border-box;
+    padding: 30px 40px;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 60vh;
+    border-radius: 10px;
+    width:550px;
+    
+}
+
+.header {
+    padding: 30px 0 30px 0;
+    text-align: center;
+}
+
+    .header h1 {
+        font-size: 21px;
+    }
+
+.input_area {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-content: center;
+    text-align: center;
+}
+
+    .input_area input {
+        /* width: 100%; */
+        margin: 10px 0;
+        border: 1px grey solid;
+        border-radius: 20px;
+        padding: 5px 10px;
+        font-size: 17px;
+        outline: none;
+        color: black;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        height:20px;
+    }
+
+.actions {
+    text-align: center;
+    padding: 30px 0 10px 0;
+    
+}
+
+ 
+
+    .actions p {
+        font-size: 13px;
+    }
+
+.Sign_up_link {
+    font-weight: 500;
+    color: #14b397;
+    text-decoration: none;
+}
+.actionsbutton {
+    background-color: #43A94C;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 25px;
+    cursor: pointer;
+    width: 200px;
+    height:40px;
+    font-size:15px;
+}
+   
+    
+
